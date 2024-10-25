@@ -16,3 +16,5 @@ const json = {
         }
     }
 }
+
+console.log(json)
